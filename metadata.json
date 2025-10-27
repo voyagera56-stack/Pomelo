@@ -1,0 +1,5 @@
+{
+  "name": "Feedback Generator AI",
+  "description": "An AI-powered application for educators to generate detailed, constructive feedback on student texts based on specified criteria like learner level, analysis type, and depth.",
+  "requestFramePermissions": []
+}
